@@ -9,6 +9,7 @@ database.sqlite
 #ignoring mobile files
 node_modules/**/*
 .expo/*
+.expo*
 npm-debug.*
 *.jks
 *.p8
